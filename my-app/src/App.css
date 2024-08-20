@@ -1,0 +1,22 @@
+.list {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.friends {
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+}
+
+body {
+  height: 100vh;
+}
+
+.card {
+  margin-left: 40px;
+}
